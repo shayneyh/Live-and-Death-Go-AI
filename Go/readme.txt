@@ -1,0 +1,3 @@
+The game is written in Python 2.7. To run the game, run the goGame_main.py file in the terminal. A list of problems will be displayed. Type the problem number you wish to play and enter an arbitrary search depth. The program is the defender (represented as X in the diagram) and will make the first move. It will prompt all the moves that you can play. Once the program reaches the survival state, it will print the final state. Most problems came from the app called Tsumego (available on both android and iphone).
+
+Due to the way the alpha-beta pruning was implemented in the template, depth 1 in the output actually refers to depth 3 in the search tree.

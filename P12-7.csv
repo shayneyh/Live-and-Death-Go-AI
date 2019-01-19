@@ -1,0 +1,88 @@
+Which game would you like to play? (0 to 15)12
+Depth?7
+_______________________________
+ | O|  | X| O|  |
+ | X| X| X| O|  |
+X|  |  |  | O|  |
+O| X| X| O|  |  |
+O| O| O| O|  |  |
+ |  |  |  |  |  |
+_______________________________
+START!
+Move Number, 1
+problem, 12 , total tree depth, 7
+1 , 66 , 31
+2 , 98 , 32
+3 , 180 , 70
+4 , 163 , 98
+5 , 231 , 44
+6 , 246 , 331
+Time elapsed, 1.26510162032
+
+Move Number, 2
+_______________________________
+ | O| X| X| O|  |
+ | X| X| X| O|  |
+X|  |  |  | O|  |
+O| X| X| O|  |  |
+O| O| O| O|  |  |
+ |  |  |  |  |  |
+_______________________________
+Please pick the integer corresponding to your selected move: (1 to 5)
+
+1 :  (1, 0)
+2 :  (2, 2)
+3 :  (2, 3)
+4 :  (2, 1)
+5 :  (0, 0)
+
+Your move? (1 to 5)2
+Time elapsed, 2.6878537991
+
+Move Number, 3
+problem, 12 , total tree depth, 5
+1 , 24 , 4
+2 , 27 , 15
+3 , 48 , 9
+4 , 54 , 121
+Time elapsed, 0.211211467227
+
+Move Number, 4
+_______________________________
+ | O| X| X| O|  |
+ | X| X| X| O|  |
+X| X| O|  | O|  |
+O| X| X| O|  |  |
+O| O| O| O|  |  |
+ |  |  |  |  |  |
+_______________________________
+Please pick the integer corresponding to your selected move: (1 to 3)
+
+1 :  (1, 0)
+2 :  (2, 3)
+3 :  (0, 0)
+
+Your move? (1 to 3)2
+Time elapsed, 0.499964899763
+
+Move Number, 5
+problem, 12 , total tree depth, 1
+Time elapsed, 0.00516363484095
+
+_______________________________
+X|  | X| X| O|  |
+ | X| X| X| O|  |
+X| X| O| O| O|  |
+O| X| X| O|  |  |
+O| O| O| O|  |  |
+ |  |  |  |  |  |
+_______________________________
+Final State
+_______________________________
+X|  | X| X| O|  |
+ | X| X| X| O|  |
+X| X| O| O| O|  |
+O| X| X| O|  |  |
+O| O| O| O|  |  |
+ |  |  |  |  |  |
+_______________________________

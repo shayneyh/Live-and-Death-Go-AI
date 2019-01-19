@@ -1,0 +1,39 @@
+#Algorithm 1: generate connected pieces
+foreach piece in list:
+	determine 4 adjcent_positions
+	foreach pos in adjencent_positions:
+		if pos is belongs to an existing group:
+			append pos to that group
+		else: 
+			start a own group
+			foreach piece in the remaining list:
+				add all adjacnt pieces to current group
+#Depending on how the list was ordered, some connected
+#group could still be separated. Merge groups until no
+#connected groups are found
+mergeFound = True
+while mergeFound == True
+	for i in groups:
+		for j in groups:
+			if i,j are connected:
+				merge(i,j)				
+				exit nested for loop
+	mergeFound = False
+	
+#Algorithm 2: calculate liberties for each connected group
+#This algorithm works for any number of pieces and any 
+#arbitrary shapes
+libertyList = []
+foreach piece in group:
+	determine 4 adjcent_positions
+	foreach pos in adjacent_positions:
+	if pos is not occupied & not in libertyList:
+		addtoLibertyList(pos)
+		
+#Algorithm 3: Find eyes:
+
+
+if all neighbors are occupied by 'Def':
+	enclosedGroup.add(group)
+	
+	

@@ -1,0 +1,150 @@
+Which game would you like to play? (0 to 15)15
+Depth?8
+_______________________________
+ | O| O|  |  |
+O| X|  | O|  |
+ | X|  | O|  |
+O| X|  | O|  |
+ | X|  | O|  |
+O| X| O|  |  |
+ | X| O|  |  |
+ | X| O|  |  |
+ | O| O|  |  |
+ |  |  |  |  |
+_______________________________
+START!
+Move Number, 1
+problem, 15 , total tree depth, 8
+1 , 168 , 417
+2 , 758 , 423
+3 , 1497 , 2953
+4 , 5064 , 2758
+5 , 12072 , 13171
+6 , 32045 , 16015
+7 , 90119 , 47668
+Time elapsed, 229.34464902
+
+Move Number, 2
+_______________________________
+ | O| O|  |  |
+O| X|  | O|  |
+ | X|  | O|  |
+O| X|  | O|  |
+X| X|  | O|  |
+O| X| O|  |  |
+ | X| O|  |  |
+ | X| O|  |  |
+ | O| O|  |  |
+ |  |  |  |  |
+_______________________________
+Please pick the integer corresponding to your selected move: (1 to 9)
+
+1 :  (0, 0)
+2 :  (1, 2)
+3 :  (2, 0)
+4 :  (2, 2)
+5 :  (3, 2)
+6 :  (4, 2)
+7 :  (6, 0)
+8 :  (7, 0)
+9 :  (8, 0)
+
+Your move? (1 to 9)1
+Time elapsed, 29.7867260346
+
+Move Number, 3
+problem, 15 , total tree depth, 6
+1 , 128 , 216
+2 , 329 , 266
+3 , 669 , 789
+4 , 1069 , 615
+5 , 1840 , 1099
+Time elapsed, 6.36555767708
+
+Move Number, 4
+_______________________________
+O| O| O|  |  |
+O| X|  | O|  |
+X| X|  | O|  |
+ | X|  | O|  |
+X| X|  | O|  |
+O| X| O|  |  |
+ | X| O|  |  |
+ | X| O|  |  |
+ | O| O|  |  |
+ |  |  |  |  |
+_______________________________
+Please pick the integer corresponding to your selected move: (1 to 7)
+
+1 :  (1, 2)
+2 :  (2, 2)
+3 :  (3, 2)
+4 :  (4, 2)
+5 :  (6, 0)
+6 :  (7, 0)
+7 :  (8, 0)
+
+Your move? (1 to 7)7
+Time elapsed, 72.0337910596
+
+Move Number, 5
+problem, 15 , total tree depth, 4
+1 , 70 , 60
+2 , 144 , 31
+3 , 299 , 134
+Time elapsed, 0.832663418287
+
+Move Number, 6
+_______________________________
+O| O| O|  |  |
+O| X| X| O|  |
+X| X|  | O|  |
+ | X|  | O|  |
+X| X|  | O|  |
+O| X| O|  |  |
+ | X| O|  |  |
+ | X| O|  |  |
+O| O| O|  |  |
+ |  |  |  |  |
+_______________________________
+Please pick the integer corresponding to your selected move: (1 to 5)
+
+1 :  (2, 2)
+2 :  (3, 2)
+3 :  (4, 2)
+4 :  (6, 0)
+5 :  (7, 0)
+
+Your move? (1 to 5)4
+Time elapsed, 27.0874964746
+
+Move Number, 7
+problem, 15 , total tree depth, 2
+1 , 30 , 9
+Time elapsed, 0.0754761829498
+
+_______________________________
+O| O| O|  |  |
+O| X| X| O|  |
+X| X|  | O|  |
+ | X|  | O|  |
+X| X|  | O|  |
+ | X| O|  |  |
+ | X| O|  |  |
+X| X| O|  |  |
+O| O| O|  |  |
+ |  |  |  |  |
+_______________________________
+Final State
+_______________________________
+O| O| O|  |  |
+O| X| X| O|  |
+X| X|  | O|  |
+ | X|  | O|  |
+X| X|  | O|  |
+ | X| O|  |  |
+ | X| O|  |  |
+X| X| O|  |  |
+O| O| O|  |  |
+ |  |  |  |  |
+_______________________________
